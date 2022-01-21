@@ -2,3 +2,7 @@ Manejo de Versionamiento clase 1 Git Bash
 
 Esta es la primera version del manejo de versiones en Git hut
 El nombre del documento es about.txt
+
+
+Esta es la segunda versión del manejo de versiones en Git hub
+Este documento pertenece al estudiante Anderson Mafla
