@@ -6,3 +6,6 @@ El nombre del documento es about.txt
 
 Esta es la segunda versión del manejo de versiones en Git hub
 Este documento pertenece al estudiante Anderson Mafla
+
+Esta es la tercera versión del manejo de versiones en Git Hub
+El dueño de este docuemnto es un estudiante del INT
