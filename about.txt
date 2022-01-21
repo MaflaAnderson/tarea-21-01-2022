@@ -1,0 +1,4 @@
+Manejo de Versionamiento clase 1 Git Bash
+
+Esta es la primera version del manejo de versiones en Git hut
+El nombre del documento es about.txt
